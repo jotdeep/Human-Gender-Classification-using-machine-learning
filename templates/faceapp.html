@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block bodyblock %}
+    <div class="container">
+        <br>
+        <h3 class="content"></h3>
+
+        <p class="content">
+        
+        </p>
+        <br>
+        <img class = "img-responsive" src="{{ url_for('static',filename='images/002.PNG') }}" alt="" width = "100%" >
+        <br>
+        <div align="center">
+            <a class="btn btn-outline-primary" href="{{ url_for('gender') }}">Try it now</a>
+        </div>
+       
+    </div>
+
+
+{% endblock  %}
