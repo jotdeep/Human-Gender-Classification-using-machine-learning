@@ -1,21 +1,15 @@
-# PRICE PREDICTION FOR CARS
+# Human Gender Classification Using Machine Learning
 
-Predicting the price of used cars according to market standards taking into consideration important parameters of the vehicle such as the number of kilometers driven and the type of engine
+In computer vision, one essential problem we are trying to figure out is to automatically detect objects in an image without human intervention. Face detection can be thought of as such a problem where we detect human faces in an image. There may be slight differences in the faces of humans but overall, it is safe to say that there are certain features that are associated with all the human faces. 
 
 
-## 4.3	GUI Design/Screen Shots
+## Demo
 
-![1](https://user-images.githubusercontent.com/59995823/158415561-d3466a70-b3c0-4140-8e7e-241208a151bb.png)
+![1](https://user-images.githubusercontent.com/59995823/158435614-19ebad7b-c922-4d2f-a91c-b8c9ed1b2342.png)
 #
-![2](https://user-images.githubusercontent.com/59995823/158417741-839d837d-3a65-4efb-8324-5c8b24f75a25.png)
+![2](https://user-images.githubusercontent.com/59995823/158435650-18062512-bbfb-4720-a8fc-15da904070f4.png)
 #
-![3](https://user-images.githubusercontent.com/59995823/158417857-843e6990-bbc0-4fe4-9d3f-b206f3bd719d.png)
-#
-![4](https://user-images.githubusercontent.com/59995823/158417865-581082ee-baf5-43fe-b9a8-3c0db88eeb51.png)
-#
-![5](https://user-images.githubusercontent.com/59995823/158417875-f7e8d5c3-1278-43e3-9d23-e8ea2a76f2b7.png)
-#
-![6](https://user-images.githubusercontent.com/59995823/158417879-f5cdd541-7159-475d-be23-1f4d7e361076.png)
-#
-![7](https://user-images.githubusercontent.com/59995823/158417886-3e3f0162-ac60-4468-887b-3c98f7629112.png)
+![3](https://user-images.githubusercontent.com/59995823/158435658-9a0dbd10-0aaa-4cc0-b4be-de43326ccafe.png)
+
+
 
